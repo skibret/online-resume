@@ -1,0 +1,45 @@
+h1 {
+ color: aqua; 
+  text-align: block; 
+}
+.container {
+  display: flex;
+  width:980px;
+margin:auto;
+}
+img {
+  border-radius: 35%;
+  margin-left: 50px;
+  
+
+
+}
+.second-dell {
+  background-color: rgb(0, 225, 255);
+  width: 350px;
+  padding: 20px 20px;
+  color: white;
+}
+.contact {
+  margin-top: 50px;
+  
+}
+.sub {
+  display: flex;
+  justify-content: space-between;
+}
+h4 {
+  margin-right: 20px;
+  margin-top: 40px;
+}
+.skill {
+  padding-top: 50px;
+  text-align: center;
+}
+a:hover{
+  color: rgb(22, 5, 5);
+}
+a {
+text-decoration: none;
+color: white;
+}
